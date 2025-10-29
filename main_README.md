@@ -37,7 +37,7 @@ This repo showcases three hands-on Python tasks: data analysis, matrix operation
 
 ## Certificate
 
-![Internship offer letter](/Manoj-offerletter.pdf)
+![Internship offer letter](Manoj-offerletter.pdf)
 
 ---
 
